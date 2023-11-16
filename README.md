@@ -1,0 +1,6 @@
+- 👋 Hi, I’m PRAKHAR SRIVASTAVA (@prakhar2311)
+-  :)   Student at Galgotias Universty
+- 👀 I’m interested in python programming
+- 🌱 I’m currently learning coding (Aiml)
+- 💞️ I’m looking to collaborate with python devlopers
+- 📫 How to reach me : whatsapp no: 8707274031
